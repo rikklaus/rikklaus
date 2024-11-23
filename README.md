@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Erik Klaus Keifas Kalalo</h1>
 <h3 align="center">"I'm currently delving into Python and UI/UX development, a loooonnnggg journey."</h3>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=rikklaus&icon=0&color=0" />
-  </a>
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rikklaus" alt="rikklaus" />
+    <img src="https://visitcount.itsvg.in/api?id=rikklaus&icon=0&color=4" alt="rikklaus" />
   </a> 
 </p>
 
