@@ -13,15 +13,15 @@
   </a> 
 </p>
 
-- 🔭 I’m currently study on [Universitas Pendidikan Indonesia](https://id.wikipedia.org/wiki/Universitas_Pendidikan_Indonesia)
+- 🔭 I’m currently studying at [Universitas Pendidikan Indonesia](https://id.wikipedia.org/wiki/Universitas_Pendidikan_Indonesia)
 
-- 👨‍💻 Check out all my other projects at [Behance](https://www.behance.net/erikklaus1)
+- 👨‍💻 Check out all my other projects on [Behance](https://www.behance.net/erikklaus1)
 
 - 📫 How to reach me **erikklauskeifaskalalo@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/erikklauskeifaskalalo/)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/erikklauskeifaskalalo/)
 
-- ⚡ Fun fact **I love running and hiking, plus I really enjoy connecting with people!**
+- ⚡ Fun fact **I love running and hiking, and I really enjoy connecting with people!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
