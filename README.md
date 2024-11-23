@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Erik Klaus Keifas Kalalo</h1>
 <h3 align="center">"I'm currently delving into Python and UI/UX development, a loooonnnggg journey."</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=rikklaus&label=Profile%20views&color=0e75b6&style=flat" alt="rikklaus" /> 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=rikklaus&icon=0&color=0" />
+  </a>
 </p>
 
 <p align="center"> 
@@ -80,11 +82,4 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=rikklaus&limit=5&theme=default_repocard&combine_all_yearly_contributions=true" width="48%" />
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=rikklaus&icon=0&color=0" />
-  </a>
-</p>
-
 ---
-<p align="center">Proudly created with GPRM ( <a href="https://gprm.itsvg.in">https://gprm.itsvg.in</a> )</p>
