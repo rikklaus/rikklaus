@@ -17,7 +17,7 @@
 
 - 👨‍💻 Check out all my other projects at [Behance](https://www.behance.net/erikklaus1)
 
-- 📫 How to reach me **erikklaus@upi.edu**
+- 📫 How to reach me **erikklauskeifaskalalo@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/erikklauskeifaskalalo/)
 
