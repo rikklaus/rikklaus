@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/erikklauskeifaskalalo/)
 
-- ⚡ Fun fact **I love running and hiking, and I'm also passionate about socializing!**
+- ⚡ Fun fact **I love running and hiking, plus I really enjoy connecting with people!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
